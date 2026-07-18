@@ -15255,4 +15255,4 @@ queueonteleport(
 
 local end_time = tools.RoundNumber(tick() - start_time, 4)
 
-print('nya~ v1.0.0 successfully loaded~')
+print('nya~ v1.0.0 successfully loaded hehe~')
