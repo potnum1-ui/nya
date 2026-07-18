@@ -15251,7 +15251,7 @@ task.spawn(startup.Render)
 gui_util.ScaleElements()
 gui_util.gui_holder:GetPropertyChangedSignal('AbsoluteSize'):Connect(gui_util.ScaleElements)
 queueonteleport(
-[[loadstring(game:HttpGet("https://raw.githubusercontent.com/deimos-ep/deimos/refs/heads/main/compiled.luau"))()]])
+[[loadstring(game:HttpGet("https://raw.githubusercontent.com/potnum1-ui/nya/refs/heads/main/nyaa.luau"))()]])
 
 local end_time = tools.RoundNumber(tick() - start_time, 4)
 
